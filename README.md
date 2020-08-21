@@ -3,3 +3,10 @@
 <h3 align="right">Eric Wozniak and Colby T. Ford, Ph.D.</h3>
 <h4 align="right">August 26, 2020</h4>
 Resources from the BlueGranite Health and Life Sciences Webinar
+
+
+## Links:
+- Glow: https://projectglow.io/
+- Databricks Runtime for Genomics: https://docs.databricks.com/runtime/genomicsruntime.html
+- BlueGranite Glow Demo: https://www.youtube.com/watch?v=jtxS13-1inM
+- Webinar Video: Coming Soon
