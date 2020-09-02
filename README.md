@@ -6,6 +6,9 @@ Resources from the BlueGranite Health and Life Sciences Webinar
 <h3 align="right">Eric Wozniak and Colby T. Ford, Ph.D.</h3>
 <h4 align="right">August 26, 2020</h4>
 
+## In Case You Missed It...
+Watch the webinar recording on YouTube here: https://www.youtube.com/watch?v=I8aZfQBmlPA
+
 
 ## Links:
 - Glow: https://projectglow.io/
