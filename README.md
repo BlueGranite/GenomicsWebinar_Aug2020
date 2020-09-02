@@ -10,8 +10,7 @@ Resources from the BlueGranite Health and Life Sciences Webinar
 Watch the webinar recording on YouTube here: https://www.youtube.com/watch?v=I8aZfQBmlPA
 
 
-## Links:
+## Useful Links:
 - Glow: https://projectglow.io/
 - Databricks Runtime for Genomics: https://docs.databricks.com/runtime/genomicsruntime.html
 - BlueGranite Glow Demo: https://www.youtube.com/watch?v=jtxS13-1inM
-- Webinar Video: Coming Soon
