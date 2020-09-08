@@ -14,3 +14,4 @@ Watch the webinar recording on YouTube here: https://www.youtube.com/watch?v=I8a
 - Glow: https://projectglow.io/
 - Databricks Runtime for Genomics: https://docs.databricks.com/runtime/genomicsruntime.html
 - BlueGranite Glow Demo: https://www.youtube.com/watch?v=jtxS13-1inM
+- BlueGranite Glow Blog Post: https://www.bluegranite.com/blog/give-your-genomics-pipeline-a-glow-up-in-azure-databricks
